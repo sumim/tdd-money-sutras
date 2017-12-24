@@ -1,2 +1,3 @@
 - [ ] 5 USD + 10 CHF = 10 USD （レートが 2 : 1 の場合）
 - [ ] **5 USD + 5 USD = 10 USD**
+- [ ] 5 USD + 5 USD が Money を返す
