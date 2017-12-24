@@ -1,3 +1,3 @@
 comparing
 = object
-	^ (object isKindOf: Money) and: [ amount == object amount ]
+	^ self class == object class and: [ amount == object amount ]
