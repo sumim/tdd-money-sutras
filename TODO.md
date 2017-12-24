@@ -1,14 +1,2 @@
-- [ ] 5 $ + 10 CHF = 10 $ （レートが 2 : 1 の場合）
-- [x] 5 $ * 2 = 10 $
-- [x] amount を private "Smalltalkでは変更非推奨" にする
-- [x] Dollar の副作用どうする？
-- [ ] Money の丸め処理どうする？
-- [x] equals() "Smalltalkでは = "
-- [ ] hashCode() "Smalltalkでは hash "
-- [x] 5 CHF * 2 = 10 CHF
-- [x] **Dollar と Franc の重複**
-- [x] equals "Smalltalkでは = " の一般化
-- [x] times "Smalltalkでは * " の一般化
-- [x] Franc と Dollar を比較する
-- [x] 通貨の概念
-- [x] testFrancMultiplication を削除する？
+- [ ] 5 USD + 10 CHF = 10 USD （レートが 2 : 1 の場合）
+- [ ] **5 USD + 5 USD = 10 USD**
