@@ -1,3 +1,3 @@
 comparing
 = object
-	^ true
+	^ amount == object amount
