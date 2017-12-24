@@ -1,3 +1,5 @@
 reducing
-reduce: aMoney to: currencySym
-	^ Money dollar: 10
+reduce: aSum to: currencySym
+	| amount |
+	amount := aSum augend amount + aSum addend amount.
+	^ Money amount: amount currency: currencySym
