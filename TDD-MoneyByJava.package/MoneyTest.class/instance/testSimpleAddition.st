@@ -1,5 +1,8 @@
 tests
 testSimpleAddition
-	| sum |
-	sum := (Money dollar: 5) + (Money dollar: 5).
-	self assert: (Money dollar: 10) equals: sum
+	| five sum bank reduced |
+	five := Money dollar: 5.
+	sum := five + five.
+	bank := Bank new.
+	reduced := bank reduce: sum to: #USD.
+	self assert: (Money dollar: 10) equals: reduced
