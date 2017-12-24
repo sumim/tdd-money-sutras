@@ -1,3 +1,3 @@
 instance creation
 dollar: anInteger
-	^ Dollar amount: anInteger
+	^ Dollar amount: anInteger currency: #USD

@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"currency"
-	],
+	"instvars" : [ ],
 	"name" : "Franc",
 	"type" : "normal"
 }

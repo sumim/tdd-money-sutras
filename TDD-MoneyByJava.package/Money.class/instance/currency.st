@@ -1,3 +1,3 @@
 accessing
 currency
-	self subclassResponsibility
+	^ currency

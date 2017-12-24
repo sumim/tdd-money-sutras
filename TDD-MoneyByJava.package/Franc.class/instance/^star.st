@@ -1,3 +1,3 @@
 arithmetic
 * multiplier
-	^ Franc amount: amount * multiplier
+	^ Money franc: amount * multiplier
