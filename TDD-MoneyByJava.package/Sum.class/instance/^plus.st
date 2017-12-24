@@ -1,0 +1,3 @@
+arithmetic
++ newAddend
+	^ self
