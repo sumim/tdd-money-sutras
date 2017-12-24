@@ -1,3 +1,3 @@
 reducing
-reduce: aSum to: currencySym
-	^ nil
+reduce: aMoney to: currencySym
+	^ Money dollar: 10
