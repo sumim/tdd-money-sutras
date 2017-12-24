@@ -1,3 +1,3 @@
 arithmetic
 * multiplier
-	^ self
+	^ Money amount: amount * multiplier currency: currency
