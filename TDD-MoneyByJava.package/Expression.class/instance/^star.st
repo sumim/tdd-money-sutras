@@ -1,0 +1,3 @@
+arithmetic
+* multiplier
+	self subclassResponsibility
