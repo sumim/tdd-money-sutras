@@ -1,3 +1,3 @@
 arithmetic
 + addend
-	^ Money amount: amount + addend amount currency: currency
+     ^ Sum augend: self addend: addend

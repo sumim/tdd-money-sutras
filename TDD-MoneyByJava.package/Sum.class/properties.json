@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Expression",
+	"category" : "TDD-MoneyByJava",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"augend",
+		"addend"
+	],
+	"name" : "Sum",
+	"type" : "normal"
+}
