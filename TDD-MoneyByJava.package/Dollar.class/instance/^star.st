@@ -1,3 +1,3 @@
 arithmetic
 * multiplier
-	^ Dollar amount: amount * multiplier currency: #USD
+	^ Dollar amount: amount * multiplier currency: currency
