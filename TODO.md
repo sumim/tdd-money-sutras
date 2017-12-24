@@ -5,4 +5,7 @@
 - [ ] Money の丸め処理どうする？
 - [x] equals() "Smalltalkでは = "
 - [ ] hashCode() "Smalltalkでは hash "
-- [ ] **5 CHF * 2 = 10 CHF**
+- [x] **5 CHF * 2 = 10 CHF**
+- [ ] Dollar と Franc の重複
+- [ ] equals "Smalltalkでは = " の一般化
+- [ ] times "Smalltalkでは * " の一般化
