@@ -1,3 +1,3 @@
 accessing
 currency
-	^ #CHF
+	^ currency
