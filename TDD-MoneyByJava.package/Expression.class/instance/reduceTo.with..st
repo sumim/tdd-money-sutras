@@ -1,3 +1,3 @@
 reducing
-reduceTo: toCurrency
+reduceTo: toCurrency with: aBank
 	self subclassResponsibility
