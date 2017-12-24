@@ -1,3 +1,3 @@
 accessing
 amount
-	^ 5 * 2
+	^ amount
