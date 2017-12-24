@@ -1,7 +1,7 @@
 tests
 testMultiplication
 	| five product |
-	five := Dollar new amount: 5.
+	five := Dollar amount: 5.
 	product := five * 2.
 	self assert: 10 equals: product amount.
 	product := five * 3.

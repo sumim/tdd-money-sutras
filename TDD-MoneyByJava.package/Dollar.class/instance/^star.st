@@ -1,3 +1,3 @@
 arithmetic
 * multiplier
-	^ Dollar new amount: amount * multiplier
+	^ Dollar amount: amount * multiplier
