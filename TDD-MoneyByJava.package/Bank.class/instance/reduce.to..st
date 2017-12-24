@@ -1,3 +1,4 @@
 reducing
-reduce: aSum to: currencySym
-	^ aSum reduceTo: currencySym
+reduce: aSumOrMoney to: currencySym
+	aSumOrMoney class == Money ifTrue: [ ^ aSumOrMoney ].
+	^ aSumOrMoney reduceTo: currencySym
