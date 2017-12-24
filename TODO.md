@@ -7,5 +7,6 @@
 - [ ] hashCode() "Smalltalkでは hash "
 - [x] 5 CHF * 2 = 10 CHF
 - [ ] Dollar と Franc の重複
-- [x] **equals "Smalltalkでは = " の一般化**
+- [x] equals "Smalltalkでは = " の一般化
 - [ ] times "Smalltalkでは * " の一般化
+- [ ] **Franc と Dollar を比較する**
