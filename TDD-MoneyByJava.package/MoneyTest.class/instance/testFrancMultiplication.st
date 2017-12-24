@@ -1,6 +1,6 @@
 tests
 testFrancMultiplication
 	| five |
-	five := Franc amount: 5.
-	self assert: (Franc amount: 10) equals: five * 2.
-	self assert: (Franc amount: 15) equals: five * 3
+	five := Money franc: 5.
+	self assert: (Money franc: 10) equals: five * 2.
+	self assert: (Money franc: 15) equals: five * 3

@@ -1,7 +1,7 @@
 tests
 testEquality
-	self assert: (Dollar amount: 5) = (Dollar amount: 5).
-	self deny: (Dollar amount: 5) = (Dollar amount: 6).
-	self assert: (Franc amount: 5) = (Franc amount: 5).
-	self deny: (Franc amount: 5) = (Franc amount: 6).
-	self deny: (Franc amount: 5) = (Dollar amount: 5)
+	self assert: (Money dollar: 5) = (Money dollar: 5).
+	self deny: (Money dollar: 5) = (Money dollar: 6).
+	self assert: (Money franc: 5) = (Money franc: 5).
+	self deny: (Money franc: 5) = (Money franc: 6).
+	self deny: (Money franc: 5) = (Money dollar: 5)
