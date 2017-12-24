@@ -1,3 +1,3 @@
 arithmetic
 * multiplier
-	^ Money franc: amount * multiplier
+	^ Franc amount: amount * multiplier currency: #CHF
