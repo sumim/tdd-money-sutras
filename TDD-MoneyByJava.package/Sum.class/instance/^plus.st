@@ -1,3 +1,3 @@
 arithmetic
 + newAddend
-	^ self
+	^ Sum augend: self addend: newAddend
