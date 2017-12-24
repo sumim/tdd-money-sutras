@@ -3,5 +3,5 @@
 - [ ] amount を private "Smalltalkでは変更非推奨" にする
 - [x] Dollar の副作用どうする？
 - [ ] Money の丸め処理どうする？
-- [ ] **equals() "Smalltalkでは = "**
+- [x] **equals() "Smalltalkでは = "**
 - [ ] hashCode() "Smalltalkでは hash "
