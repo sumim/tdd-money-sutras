@@ -1,6 +1,6 @@
 - [ ] 5 USD + 10 CHF = 10 USD （レートが 2 : 1 の場合）
-- [ ] 5 USD + 5 USD = 10 USD
+- [x] 5 USD + 5 USD = 10 USD
 - [ ] 5 USD + 5 USD が Money を返す
 - [x] Bank.reduce(Money)
-- [ ] **Money を変換して換算を行う**
-- [ ] Reduce(Bank, String)
+- [x] Money を変換して換算を行う
+- [x] Reduce(Bank, String)
