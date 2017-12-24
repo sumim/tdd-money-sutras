@@ -1,3 +1,3 @@
 instance creation
 franc: anInteger
-	^ Franc amount: anInteger currency: #CHF
+	^ Money amount: anInteger currency: #CHF
