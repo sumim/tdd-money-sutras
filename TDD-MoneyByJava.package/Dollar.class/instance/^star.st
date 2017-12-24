@@ -1,4 +1,3 @@
 arithmetic
 * multiplier
-	amount := amount * multiplier.
-	^ self
+	^ Dollar new amount: amount * multiplier
