@@ -1,4 +1,4 @@
 arithmetic
 * multiplier
-	amount := 5 * 2.
+	amount := amount * multiplier.
 	^ self
